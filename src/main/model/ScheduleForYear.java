@@ -1,3 +1,6 @@
+// Author: Aswin Sai Subramanian
+// Date: 10 January 2021
+
 package model;
 
 import exceptions.IncorrectNumberOfAgendaPagesException;
