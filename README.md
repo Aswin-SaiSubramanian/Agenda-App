@@ -1,5 +1,10 @@
 # My Personal Project : Student Agenda
 
+An app simulating an annual agenda where each day of the year gets an agenda page, and each
+agenda page can hold a collection of tasks and their details including task names, start times, and end times. Scheduling 
+conflicts are avoided by simply not allowing new tasks that overlap in time with already scheduled tasks to be 
+entered.
+
 ## User Stories
 - As a user, I want to be able to add a task onto a day's schedule.
 - As a user, I want to be able to remove a task from a day's schedule.
